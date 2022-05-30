@@ -1,0 +1,11 @@
+Nombre: Carlos Melian
+Afiliacion: Eawag, ETH-Domain 
+Titulo: Eco-evolutionary dynamics on networks: From diversification to coexistence in complex ecosystems
+Abstract:
+Many studies have shown eco-evolutionary dynamics occur when ecology and evolution affect each other, potentially resulting in feedback between ecological and evolutionary processes. Empirical and theoretical studies support the notion that eco-evolutionary feedbacks are expected when evolution is rapid. Yet, many experimental, field and theoretical studies have shown that speciation, and particularly diversification, is a complex process involving several biological levels and spatial scales, and the role of eco-evolutionary dynamics, and particularly, the role of feedbacks on speciation and diversification is not well understood. In this talk, I will go throughout some of the most exciting experimental evolution and field studies showing rapid diversification, from bacterial communities to more complex lineages. I will discuss the models that speciation theory have built to predict such a rapid diversification. At this stage, I will discuss the challenges to connect simple and testable models of speciation and biodiversity dynamics with empirical patterns and how  more complex and realistic models would be required to predict the empirical patterns of diversificatiton emerging at different biological levels and spatial scales. In the second part of the talk, as an example to join simple and testable with complex and realistic models of speciation, I will introduce a landscape genetic model based on demographic stochasticity with a speciation model that takes into account the evolution of premating incompatibility or assortative mating to map diversification rates in a spatial context. Using this model I will show that landscape structure and the intensity and directionality of gene flow strongly influence the formation of hot and cold spots of diversification and its connection to biodiversity patterns. Finally I will discuss these results in the context of the biogeography of hot and cold spots of diversification both in biological and human systems.
+
+
+Flow talk:
+
+Experimental evolution 
+Diversification in bacterial communities
