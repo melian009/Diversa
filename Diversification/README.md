@@ -2,21 +2,23 @@
 /home/melian/Documents/Research/projects/MunextCHECK/Talk.symposia/Talk.symposia
 
 
-## Talk The interdependence between ecological and ....
+## Talk Diversification ....
 
-* Open jupyter notebook terminal: jupyter notebook multilayer.ipynb &
+* Open jupyter notebook terminal: jupyter notebook diversification.ipynb &
+
+token: 0658c06d64e069cc9ce8100fc19257aa45171d7311a34dd3
 
 * Open jupyter presentation in slide mode
 
-jupyter nbconvert --to slides multilayer.ipynb
+jupyter nbconvert --to slides diversification.ipynb
 
-jupyter nbconvert multilayer.ipynb --to slides --post serve
+jupyter nbconvert diversification.ipynb --to slides --post serve
 
 * Open html 
 
-opera multilayer.slides.html
+opera diversification.slides.html
 
-firefox multilayer.slides.html
+firefox diversification.slides.html
 
 OR 
 
