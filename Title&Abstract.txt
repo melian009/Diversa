@@ -2,6 +2,32 @@ Nombre: Carlos Melian
 Afiliacion: Eawag, ETH-Domain 
 Titulo: Eco-evolutionary dynamics on networks: From diversification to coexistence in complex ecosystems
 Abstract:
+What is a species? Take the Latitudinal Biodiversity Gradient (LBG). Do the Tropics produce more species? LBG is gone in deep time. Environmental gradients, time and space might be external explanations for diversifying lineages. But lineages strongly differ in diversification rates. Some contain thousands of species while others just a few. What if DNA, development, gene expression, behavior and sexual selection combine with external factors to produce a complex set of interacting layers challenging speciation events? Experimental evolution brings light to the speciation process. Many studies have shown ecological diversification from bacterial communities to eukaryotic taxa. Theoretical speciation models, from population genetics to statistical physics have also shown predictions fitting diversifying lineages. Still, theory and experiments connecting diversification to coexistence remains open. How would the next unifying diversification and biodiversity theory look like?
+
+##### What is a species?
+
+
+
+##### Do the tropics produce more species?
+
+1. https://onlinelibrary.wiley.com/doi/10.1111/jbi.12228#:~:text=The%20higher%20temperatures%20in%20the,generate%20and%20maintain%20higher%20biodiversity.
+summary: The relatively high temperatures in the tropics generate and maintain high diversity because ‘the Red Queen runs faster when she is hot’.
+
+
+2. https://www.sciencedirect.com/science/article/pii/S0169534713002358
+The latitudinal biodiversity gradient has not been a persistent feature through time.
+
+•The modern pattern might only have originated 30 million years ago.
+•A temperate diversity peak is recorded during warmer intervals.
+•A tropical diversity peak might characterise icehouse worlds.
+
+Today, biodiversity decreases from equatorial to polar regions. This is a fundamental pattern governing the distribution of extant organisms, the understanding of which is critical to predicting climatically driven biodiversity loss. However, its causes remain unresolved. The fossil record offers a unique perspective on the evolution of this latitudinal biodiversity gradient (LBG), providing a dynamic system in which to explore spatiotemporal diversity fluctuations. Deep-time studies indicate that a tropical peak and poleward decline in species diversity has not been a persistent pattern throughout the Phanerozoic, but is restricted to intervals of the Palaeozoic and the past 30 million years. A tropical peak might characterise cold icehouse climatic regimes, whereas warmer greenhouse regimes display temperate diversity peaks or flattened gradients
+
+
+
+
+
+
 Many studies have shown eco-evolutionary dynamics occur when ecology and evolution affect each other, potentially resulting in feedback between ecological and evolutionary processes. Empirical and theoretical studies support the notion that eco-evolutionary feedbacks are expected when evolution is rapid. Yet, many experimental, field and theoretical studies have shown that speciation, and particularly diversification, is a complex process involving several biological levels and spatial scales, and the role of eco-evolutionary dynamics, and particularly, the role of feedbacks on speciation and diversification is not well understood. In this talk, I will go throughout some of the most exciting experimental evolution and field studies showing rapid diversification, from bacterial communities to more complex lineages. I will discuss the models that speciation theory have built to predict such a rapid diversification. At this stage, I will discuss the challenges to connect simple and testable models of speciation and biodiversity dynamics with empirical patterns and how  more complex and realistic models would be required to predict the empirical patterns of diversificatiton emerging at different biological levels and spatial scales. In the second part of the talk, as an example to join simple and testable with complex and realistic models of speciation, I will introduce a landscape genetic model based on demographic stochasticity with a speciation model that takes into account the evolution of premating incompatibility or assortative mating to map diversification rates in a spatial context. Using this model I will show that landscape structure and the intensity and directionality of gene flow strongly influence the formation of hot and cold spots of diversification and its connection to biodiversity patterns. Finally I will discuss these results in the context of the biogeography of hot and cold spots of diversification both in biological and human systems.
 
 
