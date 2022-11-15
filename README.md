@@ -23,8 +23,8 @@ firefox diversification.slides.html
 
 https://rawcdn.githack.com/[user]/[repository]/[branch]/[filename.ext]
 https://rawcdn.githack.com/melian009/Diversa/main/divaflow.slides.html
-https://rawcdn.githack.com/melian009/Diversa/main/tag2/divaflow.slides.html
-https://rawcdn.githack.com/melian009/Diversa/main/divaflow-checkpoint.slides.html
+https://rawcdn.githack.com/melian009/Diversa/main/tag4/divaflow.slides.html
+
 
 
 jupyter notebook list
