@@ -23,4 +23,4 @@ firefox diversification.slides.html
 
 https://rawcdn.githack.com/[user]/[repository]/[branch]/[filename.ext]
 https://rawcdn.githack.com/melian009/Diversa/main/divaflow.slides.html
-https://rawcdn.githack.com/melian009/Diversa/main/.ipynb_checkpoints/divaflow-checkpoint.ipynb
+https://rawcdn.githack.com/melian009/Diversa/main/divaflow-checkpoint.html
